@@ -7,8 +7,8 @@ export default function Index() {
         source={require("../../assets/images/icon.png")}
         style={styles.logo}
       />
-      <Text style={styles.title}>Campus Spots</Text>
-      <Text style={styles.subtitle}>Your pocket guide to Kraków</Text>
+      <Text style={styles.title}>NOT Campus Spots</Text>
+      <Text style={styles.subtitle}>I updated the subtitle</Text>
     </View>
   );
 }
