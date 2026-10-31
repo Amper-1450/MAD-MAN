@@ -1,6 +1,6 @@
 # Campus Spots
 
-My first mobile app — a small Expo / React Native project built during the Mobile Application Development labs.
+My first mobile app — a small Expo / React Native project.
 
 ## How to start it
 
