@@ -1,6 +1,7 @@
 import { Image, StyleSheet, Text, View } from "react-native";
 
 export default function Index() {
+  console.log("Hello from my phone");
   return (
     <View style={styles.container}>
       <Image
@@ -72,6 +73,7 @@ const styles = StyleSheet.create({
   row: {
     alignSelf: "stretch",
     marginTop: 24,
+    flexDirection: "row", // step 1
     justifyContent: "space-between", // step 2
     gap: 8, // step 3
   },
